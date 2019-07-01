@@ -1,5 +1,8 @@
 # blog_deraldo
 
+# http://blog_deraldo/multipage/blog-magazine/classic/bm-classic-home-page-1.html
+
+
 # Estrutura da pasta do blog:
 
  vhosts  
