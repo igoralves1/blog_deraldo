@@ -1,7 +1,19 @@
 # blog_deraldo
 
+# Estrutura da pasta do blog:
 
-
+ vhosts  
+  blog_deraldo > html > multipage > blog-magazine > classic  
+    - assets/  
+    - bm-classic-home-page-1.html  
+    - bm-classic-home-page-2.html  
+    - bm-classic-home-page-3.html  
+    - bm-classic-home-page-4.html  
+    - bm-classic-home-page-5.html  
+    - bm-classic-single-1.html  
+    - index.html  
+    ...
+                                                   
 
 # Configuração do NGINX:
 
